@@ -1,4 +1,4 @@
-![logo](https://github.com/CodeMakers-Khushi/CodeMakers-Khushi/blob/main/codemaker.png)
+![logo](https://github.com/CodeMakers-Khushi/CodeMakers-Khushi/blob/main/Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Pandey Khushi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
