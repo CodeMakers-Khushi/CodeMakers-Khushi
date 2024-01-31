@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on internship project **Electronic Mart & Python Project**
 
-- 📫 How to reach me **khushi786pandey@gmail.com**
+- 📫 How to reach me **pandeykhushi0304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
